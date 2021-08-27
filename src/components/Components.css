@@ -1,0 +1,38 @@
+.linkss {
+  text-decoration: none;
+  color: white;
+  text-align: right;
+}
+.linkss:hover {
+  color: #2ebdbd;
+}
+.cont {
+  margin-top: 100px;
+}
+.bouton {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: teal;
+  font-style: italic;
+}
+.white {
+  color: white;
+}
+.black {
+  color: black;
+  text-align: left;
+  font-style: oblique;
+  margin-bottom: 70px;
+}
+.price {
+  text-align: center;
+}
+.fbinsta {
+  text-decoration: none;
+  color: white;
+}
+.fbinsta:hover {
+  color: #2ebdbd;
+}
